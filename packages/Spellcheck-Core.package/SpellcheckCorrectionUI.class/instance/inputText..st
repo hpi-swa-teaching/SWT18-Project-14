@@ -1,9 +1,10 @@
 initialize
 inputText: aText
-
+	
 	inputText := aText.	
 	wrongWords := SpellChecker instance mistakenWordsIn: aText string.
-	currentKey := wrongWords keys detect: [ :a | true ] ifNone: [self clear. ^self]. "gets first element"
+	currentKey := self getFirstKey.
+	currentKey ifNil: [self clear. ^self].
 	currentWord := aText string copyFrom: currentKey to: (wrongWords at: currentKey).
 
 	self wrongWordText: (parser getSentenceContextOfWordAt: currentKey within: aText string).
