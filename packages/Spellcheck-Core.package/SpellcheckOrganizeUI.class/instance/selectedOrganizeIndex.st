@@ -1,5 +1,5 @@
 as yet unclassified
-selectedAlternativeIndex
+selectedOrganizeIndex
 
 	selectedIndex ifNotNil: [^selectedIndex].
 	selectedIndex := 0.
