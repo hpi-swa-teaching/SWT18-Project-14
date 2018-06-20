@@ -1,10 +1,6 @@
-select alternative
+as yet unclassified
 selectedAlternativeIndex: anIndex
 
 	anIndex = 0 ifTrue: [^self].
-	selectedIndex := anIndex.
-	self changed: #selectedAlternativeIndex.
-	workspace 
-		ifNotNil: [self replaceWorkspaceTextWithAlternative.] 
-		ifNil: [inputText replaceFrom: currentKey to: (wrongWords at: currentKey) with: (self alternatives at: anIndex).].
+	inputText replaceFrom: currentKey to: (wrongWords at: currentKey) with: (self alternatives at: anIndex).
 	self next.

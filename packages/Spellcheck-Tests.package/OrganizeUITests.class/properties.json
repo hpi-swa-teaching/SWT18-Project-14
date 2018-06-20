@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"styler" ],
-	"name" : "StylerTests",
+		 ],
+	"name" : "OrganizeUITests",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "MTFTestCase",
 	"type" : "normal" }

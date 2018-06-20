@@ -1,4 +1,4 @@
 as yet unclassified
-ignoreAll
+wordList
 
-	self clear
+ 	^wordList
