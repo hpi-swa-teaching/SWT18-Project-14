@@ -1,4 +1,4 @@
 initialize-release
 setUp
 
-	hunspell := HunspellAPI new
+	hunspell := SpellcheckHunspellAPI new

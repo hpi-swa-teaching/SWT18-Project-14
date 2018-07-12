@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"listSize" ],
-	"name" : "HunspellSuggestList",
+		"apiHandle" ],
+	"name" : "SpellcheckHunspellAPI",
 	"pools" : [
 		 ],
-	"super" : "ExternalStructure",
+	"super" : "ExternalLibrary",
 	"type" : "normal" }

@@ -2,4 +2,4 @@ initialize-release
 initialize 
 
 	super initialize.
-	spellChecker := SpellChecker instance
+	spellChecker := SpellcheckChecker instance

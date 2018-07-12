@@ -2,5 +2,5 @@ accessing
 wrongWordText: aString
 	
 	contextSentence := aString.
-	self alternatives: (SpellChecker instance suggestionsFor: self currentWord). 
+	self alternatives: (SpellcheckChecker instance suggestionsFor: self currentWord). 
 	self changed: #wrongWordText

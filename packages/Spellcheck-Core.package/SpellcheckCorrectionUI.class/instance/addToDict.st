@@ -1,5 +1,5 @@
 buttons
 addToDict
 
-	SpellChecker instance addWordToDictionary: self currentWord.
+	SpellcheckChecker instance addWordToDictionary: self currentWord.
 	self dismissCurrentDisplayedWord 

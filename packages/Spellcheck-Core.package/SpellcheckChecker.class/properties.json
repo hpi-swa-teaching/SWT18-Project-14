@@ -11,7 +11,7 @@
 		"parser",
 		"dictionaryPath",
 		"affixPath" ],
-	"name" : "SpellChecker",
+	"name" : "SpellcheckChecker",
 	"pools" : [
 		 ],
 	"super" : "Object",

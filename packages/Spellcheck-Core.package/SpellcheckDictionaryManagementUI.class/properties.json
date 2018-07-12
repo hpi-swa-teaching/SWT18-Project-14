@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "SpellingTextParser",
+		"ignoredWords",
+		"selectedWord",
+		"selectedLanguage" ],
+	"name" : "SpellcheckDictionaryManagementUI",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Model",
 	"type" : "normal" }

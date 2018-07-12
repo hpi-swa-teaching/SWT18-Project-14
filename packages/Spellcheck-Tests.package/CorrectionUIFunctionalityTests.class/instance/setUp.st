@@ -2,5 +2,5 @@ initialize-release
 setUp
 
 	correctionUI := SpellcheckCorrectionUI new. 
-	spellchecker := SpellChecker instance.
+	spellchecker := SpellcheckChecker instance.
 	spellchecker reloadHunspellHandle
