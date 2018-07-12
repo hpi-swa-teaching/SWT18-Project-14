@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"apiHandle" ],
-	"name" : "HunspellAPI",
+		 ],
+	"name" : "SpellcheckTextParser",
 	"pools" : [
 		 ],
-	"super" : "ExternalLibrary",
+	"super" : "Object",
 	"type" : "normal" }

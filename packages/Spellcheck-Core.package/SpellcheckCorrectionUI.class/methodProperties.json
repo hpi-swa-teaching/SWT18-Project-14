@@ -3,7 +3,7 @@
 		"noAlternativesText" : "ow 7/4/2018 23:32",
 		"noWrongWordsText" : "ow 7/4/2018 23:32" },
 	"instance" : {
-		"addToDict" : "ow 6/21/2018 00:21:46",
+		"addToDict" : "pz 7/12/2018 19:57",
 		"alternatives" : "ow 6/1/2018 11:22:08",
 		"alternatives:" : "ow 6/1/2018 13:42:46",
 		"buildWith:" : "II 7/2/2018 22:49",
@@ -14,11 +14,11 @@
 		"displayNextWord" : "ow 6/28/2018 17:10",
 		"displayPreviousWord" : "ow 6/28/2018 17:10",
 		"endIndex" : "RS 6/27/2018 14:48:15",
-		"ignore" : "ow 6/21/2018 00:21:55",
-		"ignoreAll" : "yk 6/14/2018 17:31:40",
-		"initialize" : "ow 6/20/2018 14:51:47",
+		"ignore" : "pz 7/12/2018 19:57",
+		"ignoreAll" : "pz 7/12/2018 19:57",
+		"initialize" : "pz 7/12/2018 20:00",
 		"input:" : "ow 6/21/2018 00:13:53",
-		"inputText:" : "RS 6/27/2018 16:37:50",
+		"inputText:" : "pz 7/12/2018 19:57",
 		"open" : "pz 5/29/2018 21:55:12",
 		"replaceTextWithAlternative" : "ow 7/4/2018 23:34",
 		"selectedAlternative" : "RS 6/27/2018 15:19:24",
@@ -28,4 +28,4 @@
 		"updateKeyArrayAfter:By:" : "ow 7/4/2018 23:36",
 		"updateWrongWordsAfter:By:" : "RS 6/27/2018 15:52:13",
 		"wrongWordText" : "II 6/9/2018 15:50:26",
-		"wrongWordText:" : "ow 6/21/2018 00:21:37" } }
+		"wrongWordText:" : "pz 7/12/2018 19:57" } }

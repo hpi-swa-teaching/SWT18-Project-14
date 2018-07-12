@@ -1,4 +1,4 @@
 initialize-release
 setUp
 
-	spellChecker := SpellChecker new
+	spellChecker := SpellcheckChecker new

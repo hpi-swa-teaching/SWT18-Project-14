@@ -1,7 +1,7 @@
 initialize-release
 initialize 
 
-	hunspell := HunspellAPI new.
-	parser := SpellingTextParser new.
+	hunspell := SpellcheckHunspellAPI new.
+	parser := SpellcheckTextParser new.
 	AddedWords ifNil: [AddedWords := Set new].
 	self reloadAddedWords

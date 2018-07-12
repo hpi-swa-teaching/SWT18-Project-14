@@ -1,7 +1,7 @@
 testing
 testAddDictionary
 
-	hunspell := HunspellAPI new.
+	hunspell := SpellcheckHunspellAPI new.
 	self deny: (hunspell isWordCorrect: 'Schnee').
 
 	hunspell addDictionary: self class germanDictionary.

@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"initialize" : "ow 7/5/2018 16:58",
+		"initialize" : "pz 7/12/2018 19:57",
 		"instance" : "ow 7/7/2018 17:29",
 		"instance:" : "ow 6/8/2018 13:26:08",
 		"startUp:" : "ow 5/31/2018 18:30:40" },
@@ -13,7 +13,7 @@
 		"dictionaryPath" : "ow 7/7/2018 17:30",
 		"dictionaryPath:" : "ow 7/7/2018 17:18",
 		"ignoreWord:" : "yk 6/14/2018 17:30:11",
-		"initialize" : "ow 7/5/2018 16:59",
+		"initialize" : "pz 7/12/2018 20:00",
 		"isSpelledCorrectly:" : "ow 5/24/2018 17:13:38",
 		"mistakenWordsIn:" : "ow 7/5/2018 17:03",
 		"reloadAddedWords" : "yk 5/26/2018 11:18:44",

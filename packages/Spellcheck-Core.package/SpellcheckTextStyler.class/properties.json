@@ -3,14 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"SpellCheckingEnabled" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"ignoredWords",
-		"selectedWord",
-		"selectedLanguage" ],
-	"name" : "SpellcheckOrganizeUI",
+		"spellChecker" ],
+	"name" : "SpellcheckTextStyler",
 	"pools" : [
 		 ],
-	"super" : "Model",
+	"super" : "SHTextStylerST80",
 	"type" : "normal" }
